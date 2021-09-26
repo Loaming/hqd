@@ -30,6 +30,7 @@ body {
       float: left;
       width: 90px;
       height: 100vh;
+      padding-bottom: 34px;
       background: rgba(255, 255, 255, 1);
       border: 1px solid rgba(240, 246, 253, 1);
       transition: all .5s;
@@ -39,6 +40,9 @@ body {
   }
   .svg-icon:last-child {
       margin-bottom: 0px;
+  }
+  .svg-end {
+      margin-top: auto;
   }
   .slide-block {
     position: relative;
