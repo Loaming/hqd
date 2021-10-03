@@ -11,12 +11,5 @@ window.addEventListener('DOMContentLoaded', () => {
         }
         open=!open;
       });
-
-      let content = document.querySelector('#content');
-      let msnry = new Masonry( content, {
-  // Настройки
-  columnWidth: ".post",
-  itemSelector: '.post'
-});
   
   })
