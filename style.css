@@ -299,7 +299,7 @@ body {
       width: 40px;
       height: 40px;
       background-size: cover;
-      background-image: url(../hqd/pics/Profile.png);
+      background-image: url(../pics/Profile.png);
       margin-right: 10px;
   }
   .high-inf-post {
@@ -398,7 +398,7 @@ body {
       font-weight: 800;
   }
   .img-people {
-      background-image: url(../hqd/pics/likepeople.png);
+      background-image: url(../pics/likepeople.png);
       background-size: cover;
       width: 35px;
       height: 15px;
@@ -438,7 +438,7 @@ body {
 
   @font-face {
       font-family: "Avenir";
-      src: url(../hqd/font/Avenir.ttf) format("truetype");
+      src: url(../font/Avenir.ttf) format("truetype");
       font-style: normal;
       font-weight: normal;
       font-weight: 400;
